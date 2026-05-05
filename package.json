@@ -1,0 +1,25 @@
+{
+  "name": "parcialgraphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoCombariza11/ParcialGraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DiegoCombariza11/ParcialGraphQL/issues"
+  },
+  "homepage": "https://github.com/DiegoCombariza11/ParcialGraphQL#readme",
+  "dependencies": {
+    "@apollo/server": "^5.5.1",
+    "graphql": "^16.13.2"
+  }
+}
